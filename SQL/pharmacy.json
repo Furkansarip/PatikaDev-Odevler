@@ -7,6 +7,16 @@
       "staff": "Yetkili 1",
       "pharmaCode": "12315",
       "avg":"30 min"
+},
+    {
+    "id": 2,
+    "info": {
+      "name":"B Eczanesi",
+      "adress": "Kiraz Mah.Visne Sokak No:5",
+      "phone": "123",
+      "staff": "Yetkili 2",
+      "pharmaCode": "12315",
+      "avg":"30 min"
 }
 
     
