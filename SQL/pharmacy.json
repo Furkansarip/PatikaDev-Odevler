@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "info": {
+      "name":"A Eczanesi",
+      "adress": "Kiraz Mah.Visne Sokak No:5",
+      "phone": "123",
+      "staff": "Yetkili 1",
+      "pharmaCode": "12315",
+      "avg":"30 min"
+    }
+   
+  }
