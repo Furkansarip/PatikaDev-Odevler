@@ -1,5 +1,4 @@
-"pharmacy":[
-{
+[{
     "id": 1,
     "info": {
       "name":"A Eczanesi",
@@ -8,8 +7,8 @@
       "staff": "Yetkili 1",
       "pharmaCode": "12315",
       "avg":"30 min"
-    },
-    {
+},
+{
     "id": 2,
     "info": {
       "name":"B Eczanesi",
@@ -18,5 +17,5 @@
       "staff": "Yetkili 1",
       "pharmaCode": "12315",
       "avg":"30 min"
-}
-    ]
+}]
+    
